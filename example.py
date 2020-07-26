@@ -1,7 +1,7 @@
 from src import pypointviewer
 from src import loadData
 
-def loadData():
+def loadPointcloudData():
     print
 
 def main():
